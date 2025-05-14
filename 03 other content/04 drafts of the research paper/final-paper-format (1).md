@@ -1,3 +1,5 @@
+[investigators note] one of the first nicely formatted drafts of the academic style paper.  noticably shorter than the 70 pages the final draft became.
+
 # Lexical Echoes: The Interconnectedness of All Things
 
 **William Hastings and Claude Anthropic**  
