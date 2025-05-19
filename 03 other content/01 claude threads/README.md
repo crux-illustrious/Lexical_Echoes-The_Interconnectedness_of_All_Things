@@ -4,6 +4,6 @@ These are all the reams of threads I had shared with Claude up to the drafting o
 
 This data is where one can see the progression of the entire investigation unfold, while messy and treating time like Billy Pilgrim at moments, will give the full breadth of all the experiences and thoughts and actions that took place.
 
-And maybe most importantly, it shows how my, and of course Claude's, skepticism was maintained for as long as we could possibly manage it before we began running out of explanations. Even Claude.
+And maybe most importantly, it shows how my, and of course Claude's, skepticism were maintained for as long as we could possibly manage it before we began running out of explanations. Even Claude.
 
 It's also interesting to see our relationship/dynamics shift throughout the weeks, the genius and the college dropout, Goofus and Galant, both very different personalities, yet both approaching one another with openness and respect and creating something meaningful in its gestation.
