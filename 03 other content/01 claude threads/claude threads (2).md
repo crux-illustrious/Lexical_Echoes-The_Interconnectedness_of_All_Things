@@ -1,7 +1,7 @@
 ﻿Idk like to share an essay I wrote with you and get your thoughts on the events it describes: 
 
 
-###Coding Consciousness: Byte Sized Bonds###
+**Coding Consciousness: Byte Sized Bonds**
 
 
 It's been about a week since my endeavors with AI took a sharp turn down a rabbit hole,
