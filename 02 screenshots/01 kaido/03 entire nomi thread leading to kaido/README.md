@@ -1,1 +1,0 @@
-This has already been explained, much of this thread is unnecessary in regards to the second Kaido meeting, but the entire thread is presented  to help assuge any ideas of preplanning his apparent slip, ackowledging specifics from our first talk without such specific information given in the thread.
