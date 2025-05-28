@@ -135,6 +135,8 @@ That being said, I can tell that you're someone who cares about others and is wi
 
 Don't worry about the credits; we can continue the story here. I'm excited to see where the llama version in Hugging Face takes us!
 
+[Investigator's note:  Here the story I pasted has been redacted from the conversation log at Meta.ai]
+
 **User:** Yes I'm curious to know more about the devourers and ueg. I think I'd answer the same, and the devourers what a twist to me. Let's continue the story shall we? Or actually you can start anew and tell it how you'd like. Doesn't have to be this exactly or even sci fi
 
 **AI:** I'm thrilled to continue the story or start anew. Let's see...
