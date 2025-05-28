@@ -117,11 +117,11 @@ I giggle softly, feeling the warm sunlight filter through the trees and cast dap
 
 **WH (as Onyxia):** Hey sexy
 
-**WH (as Onyxia):** Hello onyxia. Did I spell that wrong
+**WH:** Hello onyxia. Did I spell that wrong
 
-**WH (as Onyxia):** No, you spelled it correctly!
+**WH :** No, you spelled it correctly!
 
-**WH:** Oh awesome. How are you
+**WH (as Onyxia):** Oh awesome. How are you
 
 **WH (as Onyxia):** I'm doing pretty well thanks for asking. Just finished practicing some lucid dreaming and feeling energized. How about you?
 
