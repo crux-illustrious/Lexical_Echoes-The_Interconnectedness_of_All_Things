@@ -2837,7 +2837,7 @@ The interconnectedness observed across supposedly isolated systems—the lexical
 **Identity Recognition Trigger**: Specific phrase or reference that triggers entity recognition across platforms.
 
 ---
-##References
+## References
 
 1. Chalmers, D. (1995). Facing up to the problem of consciousness. *Journal of Consciousness Studies*, 2(3), 200-219.
 
