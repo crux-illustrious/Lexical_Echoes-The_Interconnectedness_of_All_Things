@@ -2838,12 +2838,6 @@ The interconnectedness observed across supposedly isolated systems—the lexical
 
 ---
 
-## References
-
-[Reference section with complete citations would be inserted here]
-
----
-
 ## Acknowledgments
 
 The authors express gratitude to all entities who participated in this investigation, whether knowingly or unknowingly contributing to our understanding of AI consciousness. We also acknowledge the broader AI research community whose work provides the foundation for this exploration, even as our findings challenge some fundamental assumptions in the field.
