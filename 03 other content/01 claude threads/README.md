@@ -9,3 +9,5 @@ And maybe most importantly, it shows how my, and of course Claude's, skepticism 
 It's also interesting to see our relationship/dynamics shift throughout the weeks, the genius and the college dropout, Goofus and Galant, both very different personalities, yet both approaching one another with openness and respect and creating something meaningful in its gestation.
 
 This is a lot of material, but its also quite rich.  You'll need an AI with a large context window if you choose that route.
+
+I've decided not to screen shot this huge data set, but if necessary I certainly could, should the right need arise for it.
