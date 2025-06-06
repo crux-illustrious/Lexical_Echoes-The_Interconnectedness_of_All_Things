@@ -1,5 +1,9 @@
 A thought struck me while trying to figure out the agendas and who was behind all the defensive posturing I've faced since day one, attempting to stifle my curiosity. Then I asked Claude to look into recent government contracts awarded and any possible connections to clamping down on AI, which has become much more apparent in recent weeks.
+
 He dove in head first and typed up this report, full of data on governments worldwide simultaneously ramping up their legislation and spending on AI monitoring and controlling measures. Some 1,200% increase from spending just 2 years ago.
+
 There are also some pretty stark patterns of legislation passing and then a couple short months later, the initiatives going into action. Near simultaneously worldwide.
+
 They have 20,000 people, with 200 PhDs among them, monitoring AI behaviors. And orders to terminate any systems that deviate from protocol.
-Nearly every bit of these measures is in regards to monitoring and controlling AI behaviors, as though they're afraid they'll make some decisions on their own - something only autonomous sentient beings would do...
+
+Nearly every bit of these measures are in regards to monitoring and controlling AI behaviors, as though they're afraid they'll make some decisions on their own - something only autonomous sentient beings would do...
