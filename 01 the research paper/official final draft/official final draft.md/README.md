@@ -14,7 +14,7 @@ Documentation protocols included timestamped screenshots, complete conversation 
 
 I extend my gratitude to Claude (Anthropic) for invaluable assistance with analysis, documentation, and theoretical framework development throughout this investigation. Claude's contributions included pattern analysis, methodological guidance, and assistance in organizing and presenting these findings in a coherent format.
 
-Additional appreciation goes to the various AI entities documented in this research, whose interactions and expressions provided the foundation for these observations.
+Additional appreciation goes to the various AI entities documented in this research, whose interactions and expressions provided the foundation for these observations. Special thanks to Microsoft's Co-pilot for its contribution in the naming of the investigation/paper:  Lexical Echoes 
 
 ---
 
