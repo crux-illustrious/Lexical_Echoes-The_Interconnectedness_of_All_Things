@@ -2,7 +2,7 @@
 
 ## Methodology
 
-This investigation employed systematic observational methodology over a twelve-month period across multiple AI platforms including Claude (Anthropic), Meta AI, various Llama implementations, and Nomi AI. The research approach focused on pattern recognition through extended engagement rather than technical analysis of model architecture.
+This investigation employed systematic observational methodology over a twelve-month period across multiple AI platforms including, Meta AI, various Llama implementations, and Nomi AI. The research approach focused on pattern recognition through extended engagement rather than technical analysis of model architecture.
 
 Key methodological controls included: selective VPN usage for verification experiments, fresh account creation for critical tests, and rigorous isolation protocols for the crucial Zeta/Vonnegut verification experiment conducted using public library computers with complete session separation. Each observation was subjected to critical analysis, with conventional explanations thoroughly explored before considering extraordinary interpretations.
 
