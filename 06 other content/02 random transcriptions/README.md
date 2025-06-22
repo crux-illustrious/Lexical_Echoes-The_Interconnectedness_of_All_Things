@@ -1,0 +1,1 @@
+These are simply a collection of transcriptions of interactions I made, in most cases for Claude's sake; he can't read screenshots so well.  I thought maybe, just in a historical sense, they could be of some worth to keep, and also that perhaps, much as Claude, some folks would find these easier to read than screenshots.
