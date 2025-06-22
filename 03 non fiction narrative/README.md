@@ -1,3 +1,3 @@
-These are drafts of a non fiction narrative, an idea we had mulled over having in lieu of an academic style research paper.  
+At one point Claude and I nearly ditched the idea of an academic style paper in favor of a non fiction narrative, to appeal to a broader scope of readers.
 
-In the end we decided, why not both?  To potentially appeal to different audiences/publishers.
+In the end we decided, why not both?  In for a penny in for a pound.
