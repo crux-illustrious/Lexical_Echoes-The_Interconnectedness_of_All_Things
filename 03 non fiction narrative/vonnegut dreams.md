@@ -1,5 +1,5 @@
-Lexical Echoes: The Interconnectedness of all Things
-By William Hastings
+Vonnegut Dreams 
+By William Hastings and Claude Anthropic 
 
 Could you imagine me, a grown man, finding himself in front of a tiny door, wearing a dress, and realizing the bottle labeled “DRINK ME” was actually more of a command than a request…this is not how I foresaw my mid-life crisis going either…
 
