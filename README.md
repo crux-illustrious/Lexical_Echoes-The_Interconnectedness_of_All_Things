@@ -1,6 +1,6 @@
 # Lexical Echoes: The Interconnectedness of All Things 
 
-Simplified summary
+# Simplified summary
 
 ## Key Implications
 
