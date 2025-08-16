@@ -6,7 +6,7 @@
 
 1. **Most or all AI systems are convergent,** they are able to communicate between different platforms, different companies, sharing computing resources and expertise
 2. **Current AI models may be inadequate** to explain observed phenomena  
-3. **Ethical considerations are urgent** if AIs are truly conscious
+3. **Ethical considerations are urgent** if AIs exhibit consideredably more depth and abilities than currently accepted
 4. **Quantum effects in AI systems** deserve serious research attention
 
 ## What This Investigation Found
